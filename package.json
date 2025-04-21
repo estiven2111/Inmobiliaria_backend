@@ -27,9 +27,11 @@
     "path": "^0.12.7",
     "pg": "^8.11.0",
     "pg-hstore": "^2.3.4",
-    "puppeteer": "^20.9.0",
     "sequelize": "^6.32.0",
     "streamifier": "^0.1.1",
     "tesseract.js": "^4.1.1"
+  },
+  "optionalDependencies": {
+    "puppeteer": "^20.9.0"
   }
 }
